@@ -1,0 +1,14 @@
+C:\Users\dougl\OneDrive\Área de Trabalho\Estudos\JoseEstudos\ProfessorWell_Youtube_Logica\bin\Debug\net8.0\ProfessorWell_Youtube_Logica.exe
+C:\Users\dougl\OneDrive\Área de Trabalho\Estudos\JoseEstudos\ProfessorWell_Youtube_Logica\bin\Debug\net8.0\ProfessorWell_Youtube_Logica.deps.json
+C:\Users\dougl\OneDrive\Área de Trabalho\Estudos\JoseEstudos\ProfessorWell_Youtube_Logica\bin\Debug\net8.0\ProfessorWell_Youtube_Logica.runtimeconfig.json
+C:\Users\dougl\OneDrive\Área de Trabalho\Estudos\JoseEstudos\ProfessorWell_Youtube_Logica\bin\Debug\net8.0\ProfessorWell_Youtube_Logica.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\Estudos\JoseEstudos\ProfessorWell_Youtube_Logica\bin\Debug\net8.0\ProfessorWell_Youtube_Logica.pdb
+C:\Users\dougl\OneDrive\Área de Trabalho\Estudos\JoseEstudos\ProfessorWell_Youtube_Logica\obj\Debug\net8.0\ProfessorWell_Youtube_Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\OneDrive\Área de Trabalho\Estudos\JoseEstudos\ProfessorWell_Youtube_Logica\obj\Debug\net8.0\ProfessorWell_Youtube_Logica.AssemblyInfoInputs.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\Estudos\JoseEstudos\ProfessorWell_Youtube_Logica\obj\Debug\net8.0\ProfessorWell_Youtube_Logica.AssemblyInfo.cs
+C:\Users\dougl\OneDrive\Área de Trabalho\Estudos\JoseEstudos\ProfessorWell_Youtube_Logica\obj\Debug\net8.0\ProfessorWell_Youtube_Logica.csproj.CoreCompileInputs.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\Estudos\JoseEstudos\ProfessorWell_Youtube_Logica\obj\Debug\net8.0\ProfessorWell_Youtube_Logica.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\Estudos\JoseEstudos\ProfessorWell_Youtube_Logica\obj\Debug\net8.0\refint\ProfessorWell_Youtube_Logica.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\Estudos\JoseEstudos\ProfessorWell_Youtube_Logica\obj\Debug\net8.0\ProfessorWell_Youtube_Logica.pdb
+C:\Users\dougl\OneDrive\Área de Trabalho\Estudos\JoseEstudos\ProfessorWell_Youtube_Logica\obj\Debug\net8.0\ProfessorWell_Youtube_Logica.genruntimeconfig.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\Estudos\JoseEstudos\ProfessorWell_Youtube_Logica\obj\Debug\net8.0\ref\ProfessorWell_Youtube_Logica.dll

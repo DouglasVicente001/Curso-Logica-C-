@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProfessorWell_Youtube_Logica/1.0.0": {
+        "runtime": {
+          "ProfessorWell_Youtube_Logica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProfessorWell_Youtube_Logica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
